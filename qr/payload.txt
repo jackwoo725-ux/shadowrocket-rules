@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/jackwoo725-ux/shadowrocket-rules/main/configs/Jack-Optimized.conf
